@@ -1,7 +1,10 @@
 ## Hi there 👋
 
 ### Senior Full Stack Developer / 14+ years!
-  
+
+<p align="center">
+<a href="https://github.com/tomchen/animated-svg-clock" title="Animated SVG clock"><img src="https://github.com/tomchen/animated-svg-clock/raw/master/clock.svg" alt="Clock" width="200px" height="200px"></a>
+</p>
 
 I am a **Senior Full Stack Developer** with **14+ years of experience**, specializing in **Python, Node.js, React, and Vue.js**. Passionate about building scalable, high-performance applications, I have worked with startups and enterprises to create innovative solutions that drive business success.
 
