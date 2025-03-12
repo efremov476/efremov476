@@ -6,7 +6,8 @@
 <a href="https://github.com/tomchen/animated-svg-clock" title="Animated SVG clock"><img src="https://github.com/tomchen/animated-svg-clock/raw/master/clock.svg" alt="Clock" width="200px" height="200px"></a>
 </p>
 
-I am a **Senior Full Stack Developer** with **14+ years of experience**, specializing in **Python, Node.js, React, and Vue.js**. Passionate about building scalable, high-performance applications, I have worked with startups and enterprises to create innovative solutions that drive business success.
+I’m a Senior Full Stack Developer with 14+ years of experience, specializing in Python, Node.js, React, Vue.js, and .NET. I have a strong passion for building scalable, high-performance applications that drive business growth. I’ve worked with startups and enterprises, creating innovative solutions that exceed expectations.
+
 
 My expertise lies in React, Node.js, Python, and Vue.js, with a strong focus on backend development, cloud infrastructure, and API integrations.
 
@@ -14,7 +15,7 @@ My expertise lies in React, Node.js, Python, and Vue.js, with a strong focus on 
 
 ✔ **Frontend:** React.js, Next.js, Vue.js, Nuxt.js, Redux, Redux Toolkit, Zustand, TailwindCSS, Material-UI, Chakra UI, Styled Components, Bootstrap, Three.js, D3.js, Chart.js, Webpack, Vite, ES6+, TypeScript, JavaScript
 
-✔ **Backend:** Node.js, Express.js, FastAPI, Django, Flask, GraphQL, RESTful APIs, WebSockets, Microservices, Serverless Architecture
+✔ **Backend:** Node.js, Express.js, FastAPI, Django, Flask, GraphQL, RESTful APIs, WebSockets, Microservices, Serverless Architecture, .NET (Core, ASP.NET), Microservices
 
 ✔ **Databases & Storage:** PostgreSQL, MySQL, MongoDB, DynamoDB, Firebase, Redis, Elasticsearch
 
