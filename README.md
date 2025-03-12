@@ -29,8 +29,3 @@ My expertise lies in React, Node.js, Python, and Vue.js, with a strong focus on 
 
 I am passionate about delivering high-quality, scalable, and maintainable solutions that drive business growth. Let's build something amazing together! 🚀
 
-
-## Github Stats:
-![Efremov's GitHub stats](https://github-readme-stats.vercel.app/api?username=efremov476&count_private=true&show_icons=true&include_all_commits=true&hide_title=false&hide_rank=false&theme=synthwave)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efremov476&layout=compact&langs_count=4&hide=HTML,%20CSS&theme=synthwave"/>
-[Efremov's Summary 🔗](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=efremov476&show_icons=true&count_private=true&theme=synthwave)
